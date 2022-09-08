@@ -1,0 +1,16 @@
+{
+  "name": "simple_totp",
+  "version": "1.0.0",
+  "description": "A simple totp implementation",
+  "main": "./index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "base32-decode": "^1.0.0",
+    "base32-encode": "^2.0.0"
+  }
+}
